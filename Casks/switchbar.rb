@@ -1,6 +1,6 @@
 cask "switchbar" do
-  version "1.4.0"
-  sha256 "dec8e3c090c52eafe38d2d236dcabca1d7bc194d19e8bfe37645798c01b74b7f"
+  version "1.4.1"
+  sha256 "c32e77428653293c3285957e6fcdbfa7d43bf6fdda164a04647135dc3e307e15"
 
   url "https://github.com/mlopezaragon/SwitchBar/releases/download/v#{version}/SwitchBar-#{version}.dmg"
   name "SwitchBar"
